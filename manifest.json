@@ -1,0 +1,10 @@
+{
+  "name": "My Vault 🐷",
+  "short_name": "My Vault",
+  "start_url": "./",
+  "display": "standalone",
+  "background_color": "#0f172a",
+  "theme_color": "#0f172a",
+  "description": "A private personal savings vault for tracking goals and deposits.",
+  "icons": [{"src":"icon.svg","sizes":"any","type":"image/svg+xml","purpose":"any maskable"}]
+}
